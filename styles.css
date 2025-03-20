@@ -1,0 +1,13 @@
+.characterStats p {
+    margin-bottom: 0.5rem;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#enemyHealth{
+    width: 100%;
+}
+
+#heroHealth{
+    width: 100%;
+}
